@@ -514,7 +514,7 @@ border-right: 2px solid #1e8e40;
 
 .content .bck-ol8 li:before,
 .cke_contents .bck-ol8 li:before {
-color: #9a4e7d;
+color: #d69806;
     content: counter(bck-li-counter);
     font-weight: bold;
     text-align: center;
@@ -524,7 +524,7 @@ color: #9a4e7d;
 
 .content .bck-ol9 li:before,
 .cke_contents .bck-ol9 li:before {
-border-right: 2px solid #9a4e7d;
+border-right: 2px solid #d69806;
     content: counter(bck-li-counter, lower-alpha);
     left: -5px;
     text-align: center;
