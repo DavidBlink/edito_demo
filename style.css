@@ -540,13 +540,13 @@ color: #006f9e;
     text-align: center;
 }
 
-/*LISTA ORDENADA 11*/
+/*LISTA ORDENADA 11 - azul*/
 
 .content .bck-ol11 li:before,
 .cke_contents .bck-ol11 li:before {
-color: #9a4e7d;
+border-right: 2px solid #006f9e;
     content: counter(bck-li-counter);
-    font-weight: bold;
+    left: -5px;
     text-align: center;
 }
 
@@ -554,9 +554,9 @@ color: #9a4e7d;
 
 .content .bck-ol12 li:before,
 .cke_contents .bck-ol12 li:before {
-color: #9a4e7d;
-    content: counter(bck-li-counter);
-    font-weight: bold;
+border-right: 2px solid #006f9e;
+    content: counter(bck-li-counter, lower-alpha);
+    left: -5px;
     text-align: center;
 }
 
