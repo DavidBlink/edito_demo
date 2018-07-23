@@ -32,7 +32,10 @@
 				{ name: 'Lista celeste 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol16' } },
 				{ name: 'Lista celeste 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol17' } },
 				{ name: 'Lista celeste 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol18' } },
-				{ name: 'Lista ordenada19', element: 'ol', attributes: { 'class': 'bck-ol bck-ol19' } },
+				{ name: 'Lista oliva 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol19' } },
+				{ name: 'Lista oliva 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol20' } },
+				{ name: 'Lista oliva 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol21' } },
+				{ name: 'Lista ordenada22', element: 'ol', attributes: { 'class': 'bck-ol bck-ol22' } },
 				
 				{ name: 'Lista Desordenada morada', element: 'ul', attributes: { 'class': 'bck-ul'} },
 				{ name: 'Lista Desordenada verde', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
