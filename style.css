@@ -654,7 +654,21 @@ color: #9a4e7d;
 }
 
 
+/*desordenada 3 - roja */ 
 
+#actividad .content .texto_curso  ul.bck-ul-3 li,
+#actividad .content .workspace ul li ul.bck-ul-3 li {
+	list-style: none;
+}
+
+.cke_contents .bck-ul-2 li:before,
+#actividad .content .texto_curso .bck-ul-3 li:before,
+#actividad .content .workspace ul li .bck-ul-3 li:before {
+	background-color: #be003e;
+    width: 8px;
+    height: 8px;
+    margin-top: 8px;
+}
 
 
 
