@@ -632,8 +632,8 @@ color: #859326;
 
 /*Lista oliva 2*/
 
-.content .bck-ol19 li:before,
-.cke_contents .bck-ol19 li:before {
+.content .bck-ol120 li:before,
+.cke_contents .bck-ol20 li:before {
 border-right: 2px solid #859326;
     content: counter(bck-li-counter);
     left: -5px;
@@ -642,8 +642,8 @@ border-right: 2px solid #859326;
 
 /*Lista oliva 3*/
 
-.content .bck-ol19 li:before,
-.cke_contents .bck-ol19 li:before {
+.content .bck-ol21 li:before,
+.cke_contents .bck-ol21 li:before {
 border-right: 2px solid #859326;
     content: counter(bck-li-counter, lower-alpha);
     left: -5px;
@@ -655,8 +655,8 @@ border-right: 2px solid #859326;
 
 /*LISTA ORDENADA 22*/
 
-.content .bck-ol19 li:before,
-.cke_contents .bck-ol19 li:before {
+.content .bck-ol22 li:before,
+.cke_contents .bck-ol22 li:before {
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
