@@ -473,10 +473,10 @@
 
 .content .bck-ol4 li:before,
 .cke_contents .bck-ol4 li:before {
-    color: #9a4e7d;
+    color: #1e8e40;
     content: counter(bck-li-counter);
     font-weight: bold;
-    text-align: center
+    text-align: center;
 }
 
 
@@ -484,20 +484,20 @@
 
 .content .bck-ol5 li:before,
 .cke_contents .bck-ol5 li:before {
-color: #9a4e7d;
+    border-right: 2px solid #9a4e7d;
     content: counter(bck-li-counter);
-    font-weight: bold;
-    text-align: center
+    left: -5px;
+    text-align: center;
 }
 
 /*LISTA ORDENADA 6*/
 
 .content .bck-ol6 li:before,
 .cke_contents .bck-ol6 li:before {
-color: #9a4e7d;
-    content: counter(bck-li-counter);
-    font-weight: bold;
-    text-align: center
+border-right: 2px solid #9a4e7d;
+    content: counter(bck-li-counter, lower-alpha);
+    left: -5px;
+    text-align: center;
 }
 
 /*LISTA ORDENADA 7*/
@@ -507,7 +507,7 @@ color: #9a4e7d;
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
-    text-align: center
+    text-align: center;
 }
 
 /*LISTA ORDENADA 8*/
@@ -517,7 +517,7 @@ color: #9a4e7d;
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
-    text-align: center
+    text-align: center;
 }
 
 /*LISTA ORDENADA 9*/
@@ -527,7 +527,7 @@ color: #9a4e7d;
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
-    text-align: center
+    text-align: center;
 }
 
 /*LISTA ORDENADA 10*/
@@ -537,7 +537,7 @@ color: #9a4e7d;
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
-    text-align: center
+    text-align: center;
 }
 
 /*LISTA ORDENADA 11*/
@@ -547,7 +547,7 @@ color: #9a4e7d;
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
-    text-align: center
+    text-align: center;
 }
 
 /*LISTA ORDENADA 12*/
@@ -557,7 +557,7 @@ color: #9a4e7d;
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
-    text-align: center
+    text-align: center;
 }
 
 /*LISTA ORDENADA 13*/
@@ -567,7 +567,7 @@ color: #9a4e7d;
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
-    text-align: center
+    text-align: center;
 }
 
 /*LISTA ORDENADA 14*/
@@ -577,7 +577,7 @@ color: #9a4e7d;
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
-    text-align: center
+    text-align: center;
 }
 
 /*LISTA ORDENADA 15*/
@@ -587,7 +587,7 @@ color: #9a4e7d;
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
-    text-align: center
+    text-align: center;
 }
 
 /*LISTA ORDENADA 16*/
@@ -597,7 +597,7 @@ color: #9a4e7d;
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
-    text-align: center
+    text-align: center;
 }
 
 /*LISTA ORDENADA 17*/
@@ -607,7 +607,7 @@ color: #9a4e7d;
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
-    text-align: center
+    text-align: center;
 }
 
 
