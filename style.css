@@ -438,7 +438,7 @@
 
 }
 
-/*LISTA ORDENADA 1*/
+/*LISTA ORDENADA 1 - morada*/
 
 
 .content .bck-ol1 li:before,
@@ -449,7 +449,7 @@
     text-align: center;
 }
 
-/*LISTA ORDENADA 2*/
+/*LISTA ORDENADA 2 - morada*/
 
 .content .bck-ol2 li:before,
 .cke_contents .bck-ol2 li:before {
@@ -459,7 +459,7 @@
     text-align: center;
 }
 
-/*LISTA ORDENADA 3*/
+/*LISTA ORDENADA 3 - morada*/
 
 .content .bck-ol3 li:before,
 .cke_contents .bck-ol3 li:before {
@@ -469,7 +469,7 @@
     text-align: center;
 }
 
-/*LISTA ORDENADA 4*/
+/*LISTA ORDENADA 4 - verde*/
 
 .content .bck-ol4 li:before,
 .cke_contents .bck-ol4 li:before {
@@ -480,7 +480,7 @@
 }
 
 
-/*LISTA ORDENADA 5*/
+/*LISTA ORDENADA 5 - verde*/
 
 .content .bck-ol5 li:before,
 .cke_contents .bck-ol5 li:before {
@@ -490,7 +490,7 @@
     text-align: center;
 }
 
-/*LISTA ORDENADA 6*/
+/*LISTA ORDENADA 6 - verde*/
 
 .content .bck-ol6 li:before,
 .cke_contents .bck-ol6 li:before {
@@ -500,17 +500,17 @@ border-right: 2px solid #1e8e40;
     text-align: center;
 }
 
-/*LISTA ORDENADA 7*/
+/*LISTA ORDENADA 7 - naranja*/
 
 .content .bck-ol7 li:before,
 .cke_contents .bck-ol7 li:before {
-color: #9a4e7d;
+    color: #d69806;
     content: counter(bck-li-counter);
     font-weight: bold;
     text-align: center;
 }
 
-/*LISTA ORDENADA 8*/
+/*LISTA ORDENADA 8 - naranja*/
 
 .content .bck-ol8 li:before,
 .cke_contents .bck-ol8 li:before {
@@ -520,21 +520,21 @@ color: #9a4e7d;
     text-align: center;
 }
 
-/*LISTA ORDENADA 9*/
+/*LISTA ORDENADA 9 - naranja*/
 
 .content .bck-ol9 li:before,
 .cke_contents .bck-ol9 li:before {
-color: #9a4e7d;
-    content: counter(bck-li-counter);
-    font-weight: bold;
+border-right: 2px solid #9a4e7d;
+    content: counter(bck-li-counter, lower-alpha);
+    left: -5px;
     text-align: center;
 }
 
-/*LISTA ORDENADA 10*/
+/*LISTA ORDENADA 10 - azul*/
 
 .content .bck-ol10 li:before,
 .cke_contents .bck-ol10 li:before {
-color: #9a4e7d;
+color: #006f9e;
     content: counter(bck-li-counter);
     font-weight: bold;
     text-align: center;
@@ -614,7 +614,7 @@ color: #9a4e7d;
 /*LISTA DESORDENADA POR DEFECTO*/
 
 .texto_curso ul li:before, .workspace ul li ul li:before, .cke_contents ul li:before {
-    background-color: #616caa;
+    background-color: #006f9e;
     width: 10px;
     height: 10px;
     margin-top: 8px;
