@@ -38,7 +38,7 @@
 				{ name: 'Lista naranjaoscuro 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol22' } },
 				{ name: 'Lista naranjaoscuro 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol23' } },
 				{ name: 'Lista naranjaoscuro 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol24' } },
-				{ name: 'Lista ordenada25', element: 'ol', attributes: { 'class': 'bck-ol bck-ol25' } },
+				{ name: 'Lista cuadrada', element: 'ol', attributes: { 'class': 'bck-ol bck-ol25' } },
 				
 				{ name: 'Lista Desordenada morada', element: 'ul', attributes: { 'class': 'bck-ul'} },
 				{ name: 'Lista Desordenada verde', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
