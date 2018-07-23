@@ -350,7 +350,11 @@
         border-radius: 0px;
 }
 
-.btn-primary, .btn-primary.disabled {
+.btn-primary {
+	background: #85c939;
+} 
+
+.btn-primary.disabled {
     background: #ff0046;
 }
 
