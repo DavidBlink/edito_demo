@@ -35,14 +35,17 @@
 				{ name: 'Lista oliva 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol19' } },
 				{ name: 'Lista oliva 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol20' } },
 				{ name: 'Lista oliva 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol21' } },
-				{ name: 'Lista ordenada22', element: 'ol', attributes: { 'class': 'bck-ol bck-ol22' } },
+				{ name: 'Lista naranjaoscuro 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol22' } },
+				{ name: 'Lista naranjaoscuro 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol23' } },
+				{ name: 'Lista naranjaoscuro 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol24' } },
+				{ name: 'Lista ordenada25', element: 'ol', attributes: { 'class': 'bck-ol bck-ol25' } },
 				
 				{ name: 'Lista Desordenada morada', element: 'ul', attributes: { 'class': 'bck-ul'} },
 				{ name: 'Lista Desordenada verde', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 				{ name: 'Lista Desordenada roja', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista Desordenada celeste', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
 				{ name: 'Lista Desordenada oliva', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
-				{ name: 'Lista Desordenada 6', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
+				{ name: 'Lista Desordenada naranjaoscuro', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } }
