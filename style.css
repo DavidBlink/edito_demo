@@ -811,7 +811,7 @@ border-right: 2px solid #cb6005;
 
 .bck-box {
 	margin: 10px;
-	border: 2px solid #2dbadf;
+	border: 2px solid #333;
 	-webkit-border-radius: 10px;
 	   -moz-border-radius: 10px;
 	        border-radius: 10px;
@@ -827,7 +827,7 @@ border-right: 2px solid #cb6005;
 
 /*caja 1*/
 .bck-box-1 .bck-title {
-
+	text-align: center;
 }
 
 .bck-box.bck-box-1 {
@@ -846,6 +846,7 @@ border-right: 2px solid #cb6005;
 
 .bck-box.bck-box-2 {
     margin-top: 15px;
+    border: none;
 }
 
 .bck-box-2 .bck-title {
