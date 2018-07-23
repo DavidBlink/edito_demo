@@ -632,7 +632,7 @@ color: #859326;
 
 /*Lista oliva 2*/
 
-.content .bck-ol120 li:before,
+.content .bck-ol20 li:before,
 .cke_contents .bck-ol20 li:before {
 border-right: 2px solid #859326;
     content: counter(bck-li-counter);
