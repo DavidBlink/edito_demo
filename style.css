@@ -590,20 +590,40 @@ border-right: 2px solid #be003e;
     text-align: center;
 }
 
-/*LISTA ORDENADA 16*/
+/*Lista celeste 1*/
 
 .content .bck-ol16 li:before,
 .cke_contents .bck-ol16 li:before {
-color: #9a4e7d;
+color: #008b7c;
     content: counter(bck-li-counter);
     font-weight: bold;
     text-align: center;
 }
 
-/*LISTA ORDENADA 17*/
+/*Lista celeste 2*/
 
 .content .bck-ol17 li:before,
 .cke_contents .bck-ol17 li:before {
+border-right: 2px solid #008b7c;
+    content: counter(bck-li-counter);
+    left: -5px;
+    text-align: center;
+}
+
+/*Lista celeste 3*/
+
+.content .bck-ol18 li:before,
+.cke_contents .bck-ol18 li:before {
+border-right: 2px solid #008b7c;
+    content: counter(bck-li-counter, lower-alpha);
+    left: -5px;
+    text-align: center;
+}
+
+/*LISTA ORDENADA 19*/
+
+.content .bck-ol19 li:before,
+.cke_contents .bck-ol19 li:before {
 color: #9a4e7d;
     content: counter(bck-li-counter);
     font-weight: bold;
@@ -665,6 +685,23 @@ color: #9a4e7d;
 #actividad .content .texto_curso .bck-ul-3 li:before,
 #actividad .content .workspace ul li .bck-ul-3 li:before {
 	background-color: #be003e;
+    width: 8px;
+    height: 8px;
+    margin-top: 8px;
+}
+
+
+/*desordenada 4 - celeste */ 
+
+#actividad .content .texto_curso  ul.bck-ul-4 li,
+#actividad .content .workspace ul li ul.bck-ul-4 li {
+	list-style: none;
+}
+
+.cke_contents .bck-ul-4 li:before,
+#actividad .content .texto_curso .bck-ul-4 li:before,
+#actividad .content .workspace ul li .bck-ul-4 li:before {
+	background-color: #008b7c;
     width: 8px;
     height: 8px;
     margin-top: 8px;
