@@ -41,7 +41,8 @@
 				{ name: 'Lista Desordenada verde', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 				{ name: 'Lista Desordenada roja', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista Desordenada celeste', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
-				{ name: 'Lista Desordenada 5', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
+				{ name: 'Lista Desordenada oliva', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
+				{ name: 'Lista Desordenada 6', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } }
