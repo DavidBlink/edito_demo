@@ -514,9 +514,9 @@ border-right: 2px solid #1e8e40;
 
 .content .bck-ol8 li:before,
 .cke_contents .bck-ol8 li:before {
-color: #d69806;
+border-right: 2px solid #d69806;
     content: counter(bck-li-counter);
-    font-weight: bold;
+    left: -5px;
     text-align: center;
 }
 
