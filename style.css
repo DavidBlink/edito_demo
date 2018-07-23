@@ -454,6 +454,7 @@
 .content .bck-ol2 li:before,
 .cke_contents .bck-ol2 li:before {
     border-right: 2px solid #9a4e7d;
+    content: counter(bck-li-counter);
     left: -5px;
     text-align: center;
 }
@@ -462,10 +463,10 @@
 
 .content .bck-ol3 li:before,
 .cke_contents .bck-ol3 li:before {
-	color: #9a4e7d;
-    content: counter(bck-li-counter);
-    font-weight: bold;
-    text-align: center
+    border-right: 2px solid #9a4e7d;
+    content: counter(bck-li-counter, lower-alpha);
+    left: -5px;
+    text-align: center;
 }
 
 /*LISTA ORDENADA 4*/
