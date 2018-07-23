@@ -811,7 +811,7 @@ border-right: 2px solid #cb6005;
 
 .bck-box {
 	margin: 10px;
-	border: 2px solid #333;
+	border: 2px solid #999;
 	-webkit-border-radius: 10px;
 	   -moz-border-radius: 10px;
 	        border-radius: 10px;
@@ -845,7 +845,6 @@ border-right: 2px solid #cb6005;
 /*caja morada*/
 
 .bck-box.bck-box-2 {
-    margin-top: 15px;
     border: none;
 }
 
@@ -868,9 +867,179 @@ border-right: 2px solid #cb6005;
 }
 
 
+/*caja verde*/
+
+.bck-box.bck-box-3 {
+    border: none;
+}
+
+.bck-box-3 .bck-title {
+    color: #fff;
+    font-weight: bold;
+    background-color: #1e8e40;
+    padding-bottom: 1px;
+    padding-left: 50px;
+    border-radius: 50px 50px 0px 0px;
+    padding-top: 10px;
+    
+}
+
+.bck-box.bck-box-2 .bck-content {
+    padding: 5px 0px 5px 50px;
+    background-color: #f7f3e7;
+    border: 1px solid #1e8e40;
+    margin-top: 0px;
+}
 
 
+/*caja naranja*/
 
+.bck-box.bck-box-4 {
+    border: none;
+}
+
+.bck-box-4 .bck-title {
+    color: #fff;
+    font-weight: bold;
+    background-color: #d69806;
+    padding-bottom: 1px;
+    padding-left: 50px;
+    border-radius: 50px 50px 0px 0px;
+    padding-top: 10px;
+    
+}
+
+.bck-box.bck-box-4 .bck-content {
+    padding: 5px 0px 5px 50px;
+    background-color: #f7f3e7;
+    border: 1px solid #d69806;
+    margin-top: 0px;
+}
+
+
+/*caja azul*/
+
+.bck-box.bck-box-5 {
+    border: none;
+}
+
+.bck-box-5 .bck-title {
+    color: #fff;
+    font-weight: bold;
+    background-color: #006f9e;
+    padding-bottom: 1px;
+    padding-left: 50px;
+    border-radius: 50px 50px 0px 0px;
+    padding-top: 10px;
+    
+}
+
+.bck-box.bck-box-5 .bck-content {
+    padding: 5px 0px 5px 50px;
+    background-color: #f7f3e7;
+    border: 1px solid #006f9e;
+    margin-top: 0px;
+}
+
+
+/*caja rojo*/
+
+.bck-box.bck-box-6 {
+    border: none;
+}
+
+.bck-box-6 .bck-title {
+    color: #fff;
+    font-weight: bold;
+    background-color: #be003e;
+    padding-bottom: 1px;
+    padding-left: 50px;
+    border-radius: 50px 50px 0px 0px;
+    padding-top: 10px;
+    
+}
+
+.bck-box.bck-box-6 .bck-content {
+    padding: 5px 0px 5px 50px;
+    background-color: #f7f3e7;
+    border: 1px solid #be003e;
+    margin-top: 0px;
+}
+
+
+/*caja celeste*/
+
+.bck-box.bck-box-7 {
+    border: none;
+}
+
+.bck-box-7 .bck-title {
+    color: #fff;
+    font-weight: bold;
+    background-color: #008b7c;
+    padding-bottom: 1px;
+    padding-left: 50px;
+    border-radius: 50px 50px 0px 0px;
+    padding-top: 10px;
+    
+}
+
+.bck-box.bck-box-7 .bck-content {
+    padding: 5px 0px 5px 50px;
+    background-color: #f7f3e7;
+    border: 1px solid #008b7c;
+    margin-top: 0px;
+}
+
+
+/*caja oliva*/
+
+.bck-box.bck-box-8 {
+    border: none;
+}
+
+.bck-box-8 .bck-title {
+    color: #fff;
+    font-weight: bold;
+    background-color: #859326;
+    padding-bottom: 1px;
+    padding-left: 50px;
+    border-radius: 50px 50px 0px 0px;
+    padding-top: 10px;
+    
+}
+
+.bck-box.bck-box-8 .bck-content {
+    padding: 5px 0px 5px 50px;
+    background-color: #f7f3e7;
+    border: 1px solid #859326;
+    margin-top: 0px;
+}
+
+
+/*caja naranjaoscuro*/
+
+.bck-box.bck-box-9 {
+    border: none;
+}
+
+.bck-box-9 .bck-title {
+    color: #fff;
+    font-weight: bold;
+    background-color: #cb6005;
+    padding-bottom: 1px;
+    padding-left: 50px;
+    border-radius: 50px 50px 0px 0px;
+    padding-top: 10px;
+    
+}
+
+.bck-box.bck-box-9 .bck-content {
+    padding: 5px 0px 5px 50px;
+    background-color: #f7f3e7;
+    border: 1px solid #cb6005;
+    margin-top: 0px;
+}
 
 
 
