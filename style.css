@@ -819,12 +819,21 @@ border-right: 2px solid #cb6005;
 	padding: 6px;
 }
 
+.bck-box .bck-title{
+background: #ff00a3;
+}
+
+
 .bck-box .bck-content p:last-child {
 	margin-bottom: 0;
 }
 
 
 /*caja 1*/
+.bck-box-1 .bck-title {
+
+}
+
 .bck-box.bck-box-1 {
 	border: 5px solid #f3ec80;
     background: #ffffff;
@@ -837,10 +846,13 @@ border-right: 2px solid #cb6005;
 }
 
 
-/* Caja 2 */
-.bck-box.bck-box-2 {
+/* Caja morada */
+.bck-box-2.bck-title {
+
+}
+
+.bck-box .bck-box-2 {
     padding: 6px 15px;
-    
 }
 
 /*desplegable*/
