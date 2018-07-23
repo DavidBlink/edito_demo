@@ -48,7 +48,14 @@
 				{ name: 'Lista Desordenada naranjaoscuro', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
-				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } }
+				{ name: 'Caja morada', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
+				{ name: 'Caja verde', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-3' } },
+				{ name: 'Caja naranja', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-4' } },
+				{ name: 'Caja azul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-5' } },
+				{ name: 'Caja rojo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-6' } },
+				{ name: 'Caja celeste', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-7' } },
+				{ name: 'Caja oliva', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-8' } },
+				{ name: 'Caja naranjaoscuro', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-9' } }
 
 			]
 		},
