@@ -620,7 +620,40 @@ border-right: 2px solid #008b7c;
     text-align: center;
 }
 
-/*LISTA ORDENADA 19*/
+/*Lista oliva 1*/
+
+.content .bck-ol19 li:before,
+.cke_contents .bck-ol19 li:before {
+color: #859326;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center;
+}
+
+/*Lista oliva 2*/
+
+.content .bck-ol19 li:before,
+.cke_contents .bck-ol19 li:before {
+border-right: 2px solid #859326;
+    content: counter(bck-li-counter);
+    left: -5px;
+    text-align: center;
+}
+
+/*Lista oliva 3*/
+
+.content .bck-ol19 li:before,
+.cke_contents .bck-ol19 li:before {
+border-right: 2px solid #859326;
+    content: counter(bck-li-counter, lower-alpha);
+    left: -5px;
+    text-align: center;
+}
+
+
+
+
+/*LISTA ORDENADA 22*/
 
 .content .bck-ol19 li:before,
 .cke_contents .bck-ol19 li:before {
@@ -707,6 +740,22 @@ color: #9a4e7d;
     margin-top: 8px;
 }
 
+
+/*desordenada 5 - oliva */ 
+
+#actividad .content .texto_curso  ul.bck-ul-5 li,
+#actividad .content .workspace ul li ul.bck-ul-5 li {
+	list-style: none;
+}
+
+.cke_contents .bck-ul-5 li:before,
+#actividad .content .texto_curso .bck-ul-5 li:before,
+#actividad .content .workspace ul li .bck-ul-5 li:before {
+	background-color: #859326;
+    width: 8px;
+    height: 8px;
+    margin-top: 8px;
+}
 
 
 /*CAJAS*/
