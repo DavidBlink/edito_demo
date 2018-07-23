@@ -490,6 +490,125 @@ color: #9a4e7d;
     text-align: center
 }
 
+/*LISTA ORDENADA 6*/
+
+.content .bck-ol6 li:before,
+.cke_contents .bck-ol6 li:before {
+color: #9a4e7d;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center
+}
+
+/*LISTA ORDENADA 7*/
+
+.content .bck-ol7 li:before,
+.cke_contents .bck-ol7 li:before {
+color: #9a4e7d;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center
+}
+
+/*LISTA ORDENADA 8*/
+
+.content .bck-ol8 li:before,
+.cke_contents .bck-ol8 li:before {
+color: #9a4e7d;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center
+}
+
+/*LISTA ORDENADA 9*/
+
+.content .bck-ol9 li:before,
+.cke_contents .bck-ol9 li:before {
+color: #9a4e7d;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center
+}
+
+/*LISTA ORDENADA 10*/
+
+.content .bck-ol10 li:before,
+.cke_contents .bck-ol10 li:before {
+color: #9a4e7d;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center
+}
+
+/*LISTA ORDENADA 11*/
+
+.content .bck-ol11 li:before,
+.cke_contents .bck-ol11 li:before {
+color: #9a4e7d;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center
+}
+
+/*LISTA ORDENADA 12*/
+
+.content .bck-ol12 li:before,
+.cke_contents .bck-ol12 li:before {
+color: #9a4e7d;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center
+}
+
+/*LISTA ORDENADA 13*/
+
+.content .bck-ol13 li:before,
+.cke_contents .bck-ol13 li:before {
+color: #9a4e7d;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center
+}
+
+/*LISTA ORDENADA 14*/
+
+.content .bck-ol14 li:before,
+.cke_contents .bck-ol14 li:before {
+color: #9a4e7d;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center
+}
+
+/*LISTA ORDENADA 15*/
+
+.content .bck-ol15 li:before,
+.cke_contents .bck-ol15 li:before {
+color: #9a4e7d;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center
+}
+
+/*LISTA ORDENADA 16*/
+
+.content .bck-ol16 li:before,
+.cke_contents .bck-ol16 li:before {
+color: #9a4e7d;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center
+}
+
+/*LISTA ORDENADA 17*/
+
+.content .bck-ol17 li:before,
+.cke_contents .bck-ol17 li:before {
+color: #9a4e7d;
+    content: counter(bck-li-counter);
+    font-weight: bold;
+    text-align: center
+}
 
 
 /*LISTA DESORDENADA POR DEFECTO*/
