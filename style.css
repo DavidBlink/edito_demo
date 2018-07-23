@@ -819,10 +819,6 @@ border-right: 2px solid #cb6005;
 	padding: 6px;
 }
 
-.bck-box .bck-title{
-background: #ff00a3;
-}
-
 
 .bck-box .bck-content p:last-child {
 	margin-bottom: 0;
@@ -846,14 +842,36 @@ background: #ff00a3;
 }
 
 
-/* Caja morada */
-.bck-box-2.bck-title {
+/*caja morada*/
+
+.bck-box.bck-box-2 {
+    min-height: 80px;
+    margin-top: 15px;
+}
+
+.bck-box-2 .bck-title {
+    border-bottom: 0px solid #eee;
+    color: #fff;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background-color: #728fa6;
+    padding: 5px;
+    border-bottom: 2px solid;
+    border-color: #fff;
 
 }
 
-.bck-box .bck-box-2 {
-    padding: 6px 15px;
+.bck-box.bck-box-2 .bck-content {
+    padding-left: 30px;
+    background-color: #e3e4e6;
 }
+
+
+
+
+
+
+
 
 /*desplegable*/
 
