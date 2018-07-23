@@ -810,7 +810,13 @@ border-right: 2px solid #cb6005;
 /*CAJAS*/
 
 .bck-box {
-	
+	margin: 10px;
+	border: 2px solid #2dbadf;
+	-webkit-border-radius: 10px;
+	   -moz-border-radius: 10px;
+	        border-radius: 10px;
+	background: #fff;
+	padding: 6px;
 }
 
 
