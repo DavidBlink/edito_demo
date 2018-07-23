@@ -615,12 +615,12 @@ color: #9a4e7d;
 
 .texto_curso ul li:before, .workspace ul li ul li:before, .cke_contents ul li:before {
     background-color: #006f9e;
-    width: 10px;
-    height: 10px;
+    width: 8px;
+    height: 8px;
     margin-top: 8px;
 }
 
-/*desordenadas*/
+/*lista desordenada - morada*/
 
 #actividad .content ul.bck-ul li {
 	list-style: none;
@@ -630,16 +630,14 @@ color: #9a4e7d;
 .cke_contents .bck-ul li:before,
 #actividad .content .texto_curso .bck-ul li:before,
 #actividad .content .workspace ul li .bck-ul li:before {
-    content: "\f00c";
-    position: absolute;
-    font-family: FontAwesome;
-    background-color: #ff000000;
-    margin-top: 2px;
-    margin-left: -25px;
-    color: #bfd060;
+    background-color: #9a4e7d;
+    width: 8px;
+    height: 8px;
+    margin-top: 8px;
     
 }
 
+/*desordenada 2 - verde */ 
 
 #actividad .content .texto_curso  ul.bck-ul-2 li,
 #actividad .content .workspace ul li ul.bck-ul-2 li {
@@ -649,14 +647,16 @@ color: #9a4e7d;
 .cke_contents .bck-ul-2 li:before,
 #actividad .content .texto_curso .bck-ul-2 li:before,
 #actividad .content .workspace ul li .bck-ul-2 li:before {
-	content: "\f00c";
-    position: absolute;
-    font-family: FontAwesome;
-    background-color: #ff000000;
-    margin-top: 2px;
-    margin-left: -25px;
-    color: #bc89b6;
+	background-color: #1e8e40;
+    width: 8px;
+    height: 8px;
+    margin-top: 8px;
 }
+
+
+
+
+
 
 /*CAJAS*/
 
