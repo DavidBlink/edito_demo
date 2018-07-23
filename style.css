@@ -680,6 +680,22 @@ border-right: 2px solid #cb6005;
     text-align: center;
 }
 
+/*Lista cuadrada*/
+
+.content .bck-ol25 li:before,
+.cke_contents .bck-ol25 li:before {
+    color: #ffffff;
+    content: counter(bck-li-counter);
+    font-weight: 600;
+    text-align: center;
+    background: #db9600;
+    font-size: 1.8rem;
+    width: 22px;
+    height: 22px;
+    border-radius: 4px;
+}
+
+
 
 /*LISTA DESORDENADA POR DEFECTO*/
 
