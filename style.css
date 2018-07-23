@@ -662,7 +662,7 @@ color: #cb6005;
 
 /*Lista naranjaoscuro 2*/
 
-.content .bck-ol123 li:before,
+.content .bck-ol23 li:before,
 .cke_contents .bck-ol23 li:before {
 border-right: 2px solid #cb6005;
     content: counter(bck-li-counter);
@@ -677,17 +677,6 @@ border-right: 2px solid #cb6005;
 border-right: 2px solid #cb6005;
     content: counter(bck-li-counter, lower-alpha);
     left: -5px;
-    text-align: center;
-}
-
-
-/*LISTA ORDENADA 22*/
-
-.content .bck-ol25 li:before,
-.cke_contents .bck-ol25 li:before {
-color: #9a4e7d;
-    content: counter(bck-li-counter);
-    font-weight: bold;
     text-align: center;
 }
 
