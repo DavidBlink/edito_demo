@@ -1061,7 +1061,7 @@ border-right: 2px solid #cb6005;
 /* Icons */
 
 #actividad .player.audio {
-    background: url(images/icono-audio-edito.png) center center / cover;
+    background: url(images/fancy_audio.png) center center / cover;
 }
 
 .item-container .icon:before {
