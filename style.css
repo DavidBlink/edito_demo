@@ -358,7 +358,7 @@
     background: #004a8e;
 }
 
-.btn-primary.disabled:focus {
+.btn-primary.disabled:hover, .btn-primary.disabled:focus {
 	background: #004a8e;
 }
 
