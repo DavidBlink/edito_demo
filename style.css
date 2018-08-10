@@ -444,7 +444,7 @@
     width: 20px;
     height: 20px;
     border: 2px solid #fff;
-    background: url(/images/compr-before.png);
+    background: url(images/compr-before.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
