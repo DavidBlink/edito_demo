@@ -79,30 +79,20 @@
 	}
 
 	.content_type_clase_edito_demo #actividad .content .header .title {
-		background: block;
+		background: none;
 	}
 
 	.content_type_clase_edito_demo #actividad .content .slide-concatenate .header .title {
-		display: block;
+		display: none;
 	}
 
 	.content_type_clase_edito_demo #actividad .content .header .title h3 {
-    display: block;
-    position: absolute;
-    top: -30px;
-    left: 43%;
-    width: 15%;
-    height: 60px;
-    text-align: center;
-    line-height: 60px;
-    background: #1e8e40;
-    color: #fff;
-    font-size: 2.7rem;
+    display:none;
     
 	}
 
 	.content_type_clase_edito_demo #actividad .content .header .title h3 span {
-		display: block;
+		display: none;
 	}
 
 	.content_type_clase_edito_demo #actividad .slide_content_type_1 .pregunta .texto_curso,
@@ -439,6 +429,28 @@
     font-size: 8rem;
     font-weight: bold;
 }
+
+
+/*unite*/
+
+.bck-title5 {
+    display: block;
+    position: absolute;
+    top: -30px;
+    left: 43%;
+    width: 15%;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    background: #1e8e40;
+    color: #fff;
+    font-size: 2.7rem;
+}
+
+
+
+
+
 
 
 /* Lista */
