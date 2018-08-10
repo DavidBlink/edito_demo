@@ -1088,6 +1088,41 @@ border-right: 2px solid #cb6005;
 }
 
 
+/*caja portada*/
+
+.bck-box.bck-box-10 {
+    
+}
+
+.bck-box-10 .bck-title {
+    
+    
+}
+
+.bck-box.bck-box-9 .bck-content {
+     margin: 10px;
+    border: 8px solid #d0e0cb;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 0px;
+    background: #9abc90;
+    padding: 20px;
+    -moz-transform: skewX(-1deg) skewY(-1deg);
+    -webkit-transform: skewX(-1deg) skewY(-1deg);
+    -o-transform: skewX(-1deg) skewY(-1deg);
+    -ms-transform: skewX(-1deg) skewY(-1deg);
+    transform: skewX(-1deg) skewY(-1deg);
+}
+
+
+
+
+
+
+
+
+
+
 
 /*desplegable*/
 
