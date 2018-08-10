@@ -438,8 +438,6 @@
 .bck-title4:before {
     content: " ";
     padding: 8px;
-    color: red;
-    background: green;
     border-radius: 20%;
     position: absolute;
     left: -21px;
