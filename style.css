@@ -70,20 +70,20 @@
 	}
 
 	.content_type_clase_edito_demo #actividad .content .header .title {
-		background: none;
+		background: block;
 	}
 
 	.content_type_clase_edito_demo #actividad .content .slide-concatenate .header .title {
-		display: none;
+		display: block;
 	}
 
 	.content_type_clase_edito_demo #actividad .content .header .title h3 {
-    	display: none;
+    	display: block;
     
 	}
 
 	.content_type_clase_edito_demo #actividad .content .header .title h3 span {
-		display: none;
+		display: block;
 	}
 
 	.content_type_clase_edito_demo #actividad .slide_content_type_1 .pregunta .texto_curso,
