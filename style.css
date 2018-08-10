@@ -837,10 +837,13 @@ border-right: 2px solid #cb6005;
 .cke_contents .bck-ul-7 li:before,
 #actividad .content .texto_curso .bck-ul-7 li:before,
 #actividad .content .workspace ul li .bck-ul-7 li:before {
-	background-color: #333;
-    width: 8px;
-    height: 8px;
+	background: white;
+    width: 10px;
+    height: 10px;
+    border-color: #1e8e40!important;
+    border: 2px solid;
     margin-top: 8px;
+    padding: 1px;
 }
 
 
