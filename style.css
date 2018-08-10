@@ -16,7 +16,7 @@
     color: #1e8e40;
 }
 
-	
+
 
 
 	.is_app.content_type_clase_edito_demo {
@@ -825,6 +825,27 @@ border-right: 2px solid #cb6005;
     height: 8px;
     margin-top: 8px;
 }
+
+
+/*desordenada 7 - hueca */ 
+
+#actividad .content .texto_curso  ul.bck-ul-7 li,
+#actividad .content .workspace ul li ul.bck-ul-7 li {
+	list-style: none;
+}
+
+.cke_contents .bck-ul-7 li:before,
+#actividad .content .texto_curso .bck-ul-7 li:before,
+#actividad .content .workspace ul li .bck-ul-7 li:before {
+	background-color: #333;
+    width: 8px;
+    height: 8px;
+    margin-top: 8px;
+}
+
+
+
+
 
 /*CAJAS*/
 
