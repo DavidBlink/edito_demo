@@ -771,7 +771,7 @@ border-right: 2px solid #cb6005;
 .content .bck-ol26 li:before,
 .cke_contents .bck-ol26 li:before {
     color: #ffffff;
-    content: counter(bck-li-counter, lower-alpha);
+    content: counter(bck-li-counter, upper-alpha);
     font-weight: bold;
     text-align: center;
     background: #1e8e40;
