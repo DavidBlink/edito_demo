@@ -13,6 +13,7 @@
 			styles: [
 
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title bck-title1'} },
+				{ name: 'Título 2', element: 'h4', attributes: { 'class': 'bck-title bck-title2'} },
 
 				{ name: 'Lista morada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol1' } },
 				{ name: 'Lista morada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol2' } },
