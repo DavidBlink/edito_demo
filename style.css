@@ -1245,9 +1245,9 @@ border-right: 2px solid #cb6005;
 /*TABLA POR DEFECTO*/
 .content table:not(.rf-tablegrid) td,
 .content table:not(.rf-tablegrid) th {
-    border: 4px solid #fff;
+    border: 2px solid #d8e1ec;
     padding: 10px;
-    background: #e1ead4;
+    background: #fff;
 }
 
 .content table:not(.rf-tablegrid) {
