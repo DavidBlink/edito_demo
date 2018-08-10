@@ -416,6 +416,30 @@
     font-weight: bold;
 }
 
+/*document*/
+
+.bck-title3 {
+    display: block;
+    border: none;
+    padding: 4px 8px;
+    color: #1e8e40;
+    font-family: unset;
+    font-size: 8rem;
+    font-weight: bold;
+}
+
+/*comprension*/
+
+.bck-title4 {
+    display: block;
+    border: none;
+    padding: 4px 8px;
+    color: #1e8e40;
+    font-family: unset;
+    font-size: 8rem;
+    font-weight: bold;
+}
+
 
 /* Lista */
 
@@ -716,6 +740,22 @@ border-right: 2px solid #cb6005;
 .cke_contents .bck-ol25 li:before {
     color: #ffffff;
     content: counter(bck-li-counter);
+    font-weight: 600;
+    text-align: center;
+    background: #db9600;
+    font-size: 1.8rem;
+    width: 22px;
+    height: 22px;
+    border-radius: 4px;
+}
+
+
+/*Lista letras*/
+
+.content .bck-ol26 li:before,
+.cke_contents .bck-ol26 li:before {
+    color: #ffffff;
+	content: counter(bck-li-counter, lower-alpha);
     font-weight: 600;
     text-align: center;
     background: #db9600;
