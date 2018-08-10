@@ -411,11 +411,15 @@
 .bck-title3 {
     display: block;
     border: none;
-    padding: 4px 8px;
-    color: #1e8e40;
+    padding: 3px 15px 3px 3px;
+    width: fit-content;
+    color: #fff;
+    background: #a0c096;
+    border-radius: 0px 20px 20px 0px;
     font-family: unset;
-    font-size: 8rem;
+    font-size: 3rem;
     font-weight: bold;
+}
 }
 
 /*comprension*/
@@ -767,14 +771,19 @@ border-right: 2px solid #cb6005;
 .content .bck-ol26 li:before,
 .cke_contents .bck-ol26 li:before {
     color: #ffffff;
-	content: counter(bck-li-counter, lower-alpha);
-    font-weight: 600;
+    content: counter(bck-li-counter, lower-alpha);
+    font-weight: bold;
     text-align: center;
-    background: #db9600;
+    background: #1e8e40;
     font-size: 1.8rem;
-    width: 22px;
-    height: 22px;
-    border-radius: 4px;
+    width: 24px;
+    height: 24px;
+    border-radius: 0px;
+    -moz-transform: rotate(-5deg);
+    -webkit-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    transform: rotate(-5deg);
 }
 
 
