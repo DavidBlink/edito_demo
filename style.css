@@ -406,6 +406,17 @@
     line-height: 1;
 }
 
+.bck-title2 {
+	display:block;
+	border: none;
+	background: red;
+	padding: 4px 8px;
+	color: #10a0c6;
+    font-family: cursive;
+    font-size: 2.4rem;
+}
+
+
 /* Lista */
 
 .texto_curso ul li,
