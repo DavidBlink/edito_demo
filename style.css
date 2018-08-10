@@ -419,7 +419,7 @@
     font-family: unset;
     font-size: 3rem;
     font-weight: bold;
-}
+
 }
 
 /*comprension*/
@@ -792,10 +792,12 @@ border-right: 2px solid #cb6005;
     text-align: center;
     background: #1e8e40;
     margin-bottom: 20px;
-    margin-top: 10px;
+    top: 1px;
+    position: absolute;
+    left: -10px;
     font-size: 1.8rem;
-    width: 24px;
-    height: 24px;
+    width: 28px;
+    height: 28px;
     border-radius: 0px;
     -moz-transform: rotate(-5deg);
     -webkit-transform: rotate(-5deg);
