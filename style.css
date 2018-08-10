@@ -483,7 +483,35 @@
     background-size: contain;
 }
 
+/*producion*/
 
+.bck-title7 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #8e2481;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title7:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: -5px;
+    top: 8px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: url(images/hoja-lila.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
 
 
 
