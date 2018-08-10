@@ -1131,7 +1131,7 @@ border-right: 2px solid #cb6005;
 /*caja portada*/
 
 .bck-box.bck-box-10 {
-    
+    border: none;
 }
 
 .bck-box-10 .bck-title {
