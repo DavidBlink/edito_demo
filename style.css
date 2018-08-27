@@ -1060,10 +1060,11 @@ border-right: 2px solid #cb6005;
 }
 
 .bck-box.bck-box-2 .bck-content {
-    padding: 5px 0px 5px 50px;
+    padding: 5px 15px 5px 15px;
     background-color: #f7f3e7;
     border: 1px solid #9a4e7d;
     margin-top: 0px;
+    width: fit-content;
 }
 
 
@@ -1085,10 +1086,11 @@ border-right: 2px solid #cb6005;
 }
 
 .bck-box.bck-box-3 .bck-content {
-    padding: 5px 0px 5px 15px;
+    padding: 5px 15px 5px 15px;
     background-color: #f7f3e7;
     border: 1px solid #1e8e40;
     margin-top: 0px;
+    width: fit-content;
 }
 
 
@@ -1110,10 +1112,11 @@ border-right: 2px solid #cb6005;
 }
 
 .bck-box.bck-box-4 .bck-content {
-    padding: 5px 0px 5px 50px;
+    padding: 5px 15px 5px 15px;
     background-color: #f7f3e7;
     border: 1px solid #d69806;
     margin-top: 0px;
+    width: fit-content;
 }
 
 
@@ -1135,10 +1138,11 @@ border-right: 2px solid #cb6005;
 }
 
 .bck-box.bck-box-5 .bck-content {
-    padding: 5px 0px 5px 15px;
+    padding: 5px 15px 5px 15px;
     background-color: #f7f3e7;
     border: 1px solid #006f9e;
     margin-top: 0px;
+    width: fit-content;
 }
 
 
@@ -1160,10 +1164,11 @@ border-right: 2px solid #cb6005;
 }
 
 .bck-box.bck-box-6 .bck-content {
-    padding: 5px 0px 5px 50px;
+    padding: 5px 15px 5px 15px;
     background-color: #f7f3e7;
     border: 1px solid #be003e;
     margin-top: 0px;
+    width: fit-content;
 }
 
 
@@ -1185,10 +1190,11 @@ border-right: 2px solid #cb6005;
 }
 
 .bck-box.bck-box-7 .bck-content {
-    padding: 5px 0px 5px 50px;
+    padding: 5px 15px 5px 15px;
     background-color: #f7f3e7;
     border: 1px solid #008b7c;
     margin-top: 0px;
+    width: fit-content;
 }
 
 
@@ -1210,10 +1216,11 @@ border-right: 2px solid #cb6005;
 }
 
 .bck-box.bck-box-8 .bck-content {
-    padding: 5px 0px 5px 50px;
+    padding: 5px 15px 5px 15px;
     background-color: #f7f3e7;
     border: 1px solid #859326;
     margin-top: 0px;
+    width: fit-content;
 }
 
 
@@ -1235,10 +1242,11 @@ border-right: 2px solid #cb6005;
 }
 
 .bck-box.bck-box-9 .bck-content {
-    padding: 5px 0px 5px 50px;
+    padding: 5px 15px 5px 15px;
     background-color: #f7f3e7;
     border: 1px solid #cb6005;
     margin-top: 0px;
+    width: fit-content;
 }
 
 
