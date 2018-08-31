@@ -26,6 +26,12 @@
 				{ name: 'Libro rojo', element: 'h4', attributes: { 'class': 'bck-title bck-title12'} },
 				{ name: 'Libro celeste', element: 'h4', attributes: { 'class': 'bck-title bck-title13'} },
 				{ name: 'Libro naranja', element: 'h4', attributes: { 'class': 'bck-title bck-title14'} },
+				{ name: 'bocadillo verde', element: 'h4', attributes: { 'class': 'bck-title bck-title15'} },
+				{ name: 'bocadillo morado', element: 'h4', attributes: { 'class': 'bck-title bck-title16'} },
+				{ name: 'bocadillo oliva', element: 'h4', attributes: { 'class': 'bck-title bck-title17'} },
+				{ name: 'bocadillo rojo', element: 'h4', attributes: { 'class': 'bck-title bck-title18'} },
+				{ name: 'bocadillo celeste', element: 'h4', attributes: { 'class': 'bck-title bck-title19'} },
+				{ name: 'bocadillo naranja', element: 'h4', attributes: { 'class': 'bck-title bck-title20'} },
 				
 
 				{ name: 'Lista morada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol1' } },
