@@ -600,6 +600,12 @@
     text-align: center;
 }
 
+.content .bck-ol1 li,
+.cke_contents .bck-ol1 li {
+	font-weight: bold;
+
+}
+
 /*Lista morada 2*/
 
 .content .bck-ol2 li:before,
@@ -608,6 +614,12 @@
     content: counter(bck-li-counter);
     left: -5px;
     text-align: center;
+}
+
+.content .bck-ol2 li,
+.cke_contents .bck-ol2 li {
+	font-weight: bold;
+
 }
 
 /*Lista morada 3*/
@@ -630,6 +642,12 @@
     text-align: center;
 }
 
+.content .bck-ol4 li,
+.cke_contents .bck-ol4 li {
+	font-weight: bold;
+
+}
+
 
 /*Lista verde 2*/
 
@@ -640,6 +658,13 @@
     left: -5px;
     text-align: center;
 }
+
+.content .bck-ol5 li,
+.cke_contents .bck-ol5 li {
+	font-weight: bold;
+
+}
+
 
 /*Lista verde 3*/
 
@@ -661,6 +686,13 @@ border-right: 2px solid #1e8e40;
     text-align: center;
 }
 
+.content .bck-ol7 li,
+.cke_contents .bck-ol7 li {
+	font-weight: bold;
+
+}
+
+
 /*Lista naranja 2*/
 
 .content .bck-ol8 li:before,
@@ -669,6 +701,12 @@ border-right: 2px solid #d69806;
     content: counter(bck-li-counter);
     left: -5px;
     text-align: center;
+}
+
+.content .bck-ol8 li,
+.cke_contents .bck-ol8 li {
+	font-weight: bold;
+
 }
 
 /*Lista naranja 3*/
@@ -691,6 +729,14 @@ color: #006f9e;
     text-align: center;
 }
 
+.content .bck-ol10 li,
+.cke_contents .bck-ol10 li {
+	font-weight: bold;
+
+}
+
+
+
 /*Lista azul 2*/
 
 .content .bck-ol11 li:before,
@@ -700,6 +746,13 @@ border-right: 2px solid #006f9e;
     left: -5px;
     text-align: center;
 }
+
+.content .bck-ol11 li,
+.cke_contents .bck-ol11 li {
+	font-weight: bold;
+
+}
+
 
 /*Lista azul 3*/
 
@@ -721,6 +774,13 @@ color: #be003e;
     text-align: center;
 }
 
+.content .bck-ol13 li,
+.cke_contents .bck-ol13 li {
+	font-weight: bold;
+
+}
+
+
 /*Lista roja 2*/
 
 .content .bck-ol14 li:before,
@@ -730,6 +790,13 @@ border-right: 2px solid #be003e;
     left: -5px;
     text-align: center;
 }
+
+.content .bck-ol14 li,
+.cke_contents .bck-ol14 li {
+	font-weight: bold;
+
+}
+
 
 /*Lista roja 3*/
 
@@ -751,6 +818,13 @@ color: #008b7c;
     text-align: center;
 }
 
+.content .bck-ol16 li,
+.cke_contents .bck-ol16 li {
+	font-weight: bold;
+
+}
+
+
 /*Lista celeste 2*/
 
 .content .bck-ol17 li:before,
@@ -760,6 +834,13 @@ border-right: 2px solid #008b7c;
     left: -5px;
     text-align: center;
 }
+
+.content .bck-ol17 li,
+.cke_contents .bck-ol17 li {
+	font-weight: bold;
+
+}
+
 
 /*Lista celeste 3*/
 
@@ -781,6 +862,12 @@ color: #859326;
     text-align: center;
 }
 
+.content .bck-ol19 li,
+.cke_contents .bck-ol19 li {
+	font-weight: bold;
+
+}
+
 /*Lista oliva 2*/
 
 .content .bck-ol20 li:before,
@@ -790,6 +877,13 @@ border-right: 2px solid #859326;
     left: -5px;
     text-align: center;
 }
+
+.content .bck-ol20 li,
+.cke_contents .bck-ol20 li {
+	font-weight: bold;
+
+}
+
 
 /*Lista oliva 3*/
 
@@ -811,6 +905,13 @@ color: #cb6005;
     text-align: center;
 }
 
+.content .bck-ol22 li,
+.cke_contents .bck-ol22 li {
+	font-weight: bold;
+
+}
+
+
 /*Lista naranjaoscuro 2*/
 
 .content .bck-ol23 li:before,
@@ -819,6 +920,12 @@ border-right: 2px solid #cb6005;
     content: counter(bck-li-counter);
     left: -5px;
     text-align: center;
+}
+
+.content .bck-ol23 li,
+.cke_contents .bck-ol23 li {
+	font-weight: bold;
+
 }
 
 /*Lista naranjaoscuro 3*/
