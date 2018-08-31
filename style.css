@@ -1304,6 +1304,12 @@ border-right: 2px solid #cb6005;
 
 #actividad .player.audio {
     background: url(images/fancy_audio.png) center center / cover;
+    height: 28px !important;
+    width: 28px;
+    display: inline-block;
+    border-radius: 100%;
+    margin: 0 5px;
+    vertical-align: middle;
 }
 
 .item-container .icon:before {
