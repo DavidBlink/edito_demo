@@ -45,7 +45,8 @@
 				{ name: 'Lista naranjaoscuro 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol23' } },
 				{ name: 'Lista naranjaoscuro 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol24' } },
 				{ name: 'Lista cuadrada', element: 'ol', attributes: { 'class': 'bck-ol bck-ol25' } },
-				{ name: 'Lista letras', element: 'ol', attributes: { 'class': 'bck-ol bck-ol26' } },
+				{ name: 'Lista A verde', element: 'ol', attributes: { 'class': 'bck-ol bck-ol26' } },
+				{ name: 'Lista A rojo', element: 'ol', attributes: { 'class': 'bck-ol bck-ol27' } },
 				
 				{ name: 'Lista Desordenada morada', element: 'ul', attributes: { 'class': 'bck-ul'} },
 				{ name: 'Lista Desordenada verde', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
