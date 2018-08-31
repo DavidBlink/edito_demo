@@ -533,7 +533,6 @@
     background-size: contain;
 }
 
-
 /*libro - morado*/
 
 .bck-title10 {
@@ -564,7 +563,335 @@
     background-size: contain;
 }
 
+/*libro - oliva*/
 
+.bck-title11 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #859326;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title11:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: -1px;
+    top: 106px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: url(images/libro-oliva.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*libro - rojo*/
+
+.bck-title12 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #be003e;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title12:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: -1px;
+    top: 106px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: url(images/libro-rojo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*libro - celeste*/
+
+.bck-title13 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #008b7c;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title13:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: -1px;
+    top: 106px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: url(images/libro-celeste.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*libro - naranja*/
+
+.bck-title14 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #d69806;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title14:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: -1px;
+    top: 106px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: url(images/libro-naranja.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*bocadillo - verde*/
+
+.bck-title15 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #1e8e40;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title15:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: -5px;
+    top: 8px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: url(images/hoja.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*bocadillo morado */
+
+.bck-title16 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #8e2481;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title16:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: -5px;
+    top: 8px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: url(images/hoja-lila.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*bocadillo oliva */
+
+.bck-title17 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #859326;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title17:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: -5px;
+    top: 8px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: url(images/bocadillo-oliva.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*bocadillo rojo */
+
+.bck-title18 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #be003e;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title18:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: -5px;
+    top: 8px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: url(images/bocadillo-rojo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*bocadillo celeste */
+
+.bck-title19 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #008b7c;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title19:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: -5px;
+    top: 8px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: url(images/bocadillo-celeste.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*bocadillo naranja */
+
+.bck-title20 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #d69806;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title20:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: -5px;
+    top: 8px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: url(images/bocadillo-naranja.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*bocadillo azul */
+
+.bck-title21 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #006f9e;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title21:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: -5px;
+    top: 8px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: url(images/bocadillo-azul.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
 
 
 /* Lista */
