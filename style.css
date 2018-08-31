@@ -406,7 +406,7 @@
     font-weight: bold;
 }
 
-/*document*/
+/*document - verde*/
 
 .bck-title3 {
     display: block;
@@ -423,9 +423,89 @@
 
 }
 
-/*comprension*/
+/*document - morado*/
 
 .bck-title4 {
+    display: block;
+    border: none;
+    padding: 3px 15px 3px 3px;
+    width: fit-content;
+    color: #fff;
+    background: #be9dc4;
+    border-radius: 0px 20px 20px 0px;
+    font-family: unset;
+    font-size: 3rem;
+    margin-left: -11px;
+    font-weight: bold;
+}
+
+/*document - oliva*/
+
+.bck-title5 {
+    display: block;
+    border: none;
+    padding: 3px 15px 3px 3px;
+    width: fit-content;
+    color: #fff;
+    background: #c0c68b;
+    border-radius: 0px 20px 20px 0px;
+    font-family: unset;
+    font-size: 3rem;
+    margin-left: -11px;
+    font-weight: bold;
+}
+
+/*document - rojo*/
+
+.bck-title6 {
+    display: block;
+    border: none;
+    padding: 3px 15px 3px 3px;
+    width: fit-content;
+    color: #fff;
+    background: #db9d92;
+    border-radius: 0px 20px 20px 0px;
+    font-family: unset;
+    font-size: 3rem;
+    margin-left: -11px;
+    font-weight: bold;
+}
+
+/*document - celeste*/
+
+.bck-title7 {
+    display: block;
+    border: none;
+    padding: 3px 15px 3px 3px;
+    width: fit-content;
+    color: #fff;
+    background: #9bc1b9;
+    border-radius: 0px 20px 20px 0px;
+    font-family: unset;
+    font-size: 3rem;
+    margin-left: -11px;
+    font-weight: bold;
+}
+
+/*document - naranja*/
+
+.bck-title8 {
+    display: block;
+    border: none;
+    padding: 3px 15px 3px 3px;
+    width: fit-content;
+    color: #fff;
+    background: #e2af84;
+    border-radius: 0px 20px 20px 0px;
+    font-family: unset;
+    font-size: 3rem;
+    margin-left: -11px;
+    font-weight: bold;
+}
+
+/*libro - verde*/
+
+.bck-title9 {
     font-size: 18px;
     font-weight: bold;
     margin-top: 15px;
@@ -438,7 +518,7 @@
     border-radius: 0px 20px 20px 0px;
 }
 
-.bck-title4:before {
+.bck-title9:before {
     content: " ";
     padding: 16px;
     border-radius: 50%;
@@ -448,15 +528,15 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/compr-before.png);
+    background: url(images/libro-verde.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 
-/*producion*/
+/*libro - morado*/
 
-.bck-title6 {
+.bck-title10 {
     font-size: 18px;
     font-weight: bold;
     margin-top: 15px;
@@ -465,75 +545,24 @@
     color: #fff;
     margin-left: 12px;
     margin-bottom: 25px;
-    background: #1e8e40;
+    background: #9a4e7d;
     border-radius: 0px 20px 20px 0px;
 }
 
-.bck-title6:before {
+.bck-title10:before {
     content: " ";
     padding: 16px;
     border-radius: 50%;
     position: absolute;
-    left: -5px;
-    top: 8px;
+    left: -1px;
+    top: 106px;
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/hoja.png);
+    background: url(images/comprension-lila.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
-
-/*producion*/
-
-.bck-title7 {
-    font-size: 18px;
-    font-weight: bold;
-    margin-top: 15px;
-    padding: 4px 15px 3px 15px;
-    width: fit-content;
-    color: #fff;
-    margin-left: 12px;
-    margin-bottom: 25px;
-    background: #8e2481;
-    border-radius: 0px 20px 20px 0px;
-}
-
-.bck-title7:before {
-    content: " ";
-    padding: 16px;
-    border-radius: 50%;
-    position: absolute;
-    left: -5px;
-    top: 8px;
-    width: 20px;
-    height: 20px;
-    border: 3px solid #fff;
-    background: url(images/hoja-lila.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-}
-
-
-
-/*unite*/
-
-.bck-title5 {
-    display: block;
-    position: absolute;
-    top: -98px;
-    left: 43%;
-    width: 15%;
-    height: 60px;
-    text-align: center;
-    line-height: 60px;
-    background: #1e8e40;
-    color: #fff;
-    font-size: 2.7rem;
-}
-
-
-
 
 
 
@@ -954,7 +983,7 @@ border-right: 2px solid #cb6005;
 }
 
 
-/*Lista letras*/
+/*Lista A verde*/
 
 .content .bck-ol26 li:before,
 .cke_contents .bck-ol26 li:before {
@@ -963,6 +992,31 @@ border-right: 2px solid #cb6005;
     font-weight: bold;
     text-align: center;
     background: #1e8e40;
+    margin-bottom: 20px;
+    top: 1px;
+    position: absolute;
+    left: -10px;
+    font-size: 1.8rem;
+    width: 28px;
+    height: 28px;
+    border-radius: 0px;
+    -moz-transform: rotate(-5deg);
+    -webkit-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    transform: rotate(-5deg);
+}
+
+
+/*Lista A rojo*/
+
+.content .bck-ol27 li:before,
+.cke_contents .bck-ol27 li:before {
+    color: #ffffff;
+    content: counter(bck-li-counter, upper-alpha);
+    font-weight: bold;
+    text-align: center;
+    background: #be003e;
     margin-bottom: 20px;
     top: 1px;
     position: absolute;
@@ -1091,7 +1145,7 @@ border-right: 2px solid #cb6005;
 }
 
 
-/*desordenada 7 - hueca */ 
+/*hueca verde */ 
 
 #actividad .content .texto_curso  ul.bck-ul-7 li,
 #actividad .content .workspace ul li ul.bck-ul-7 li {
@@ -1110,7 +1164,44 @@ border-right: 2px solid #cb6005;
     padding: 1px;
 }
 
+/*hueca rojo */ 
 
+#actividad .content .texto_curso  ul.bck-ul-8 li,
+#actividad .content .workspace ul li ul.bck-ul-8 li {
+	list-style: none;
+}
+
+.cke_contents .bck-ul-8 li:before,
+#actividad .content .texto_curso .bck-ul-8 li:before,
+#actividad .content .workspace ul li .bck-ul-8 li:before {
+	background: white;
+    width: 10px;
+    height: 10px;
+    border-color: #be003e!important;
+    border: 2px solid;
+    margin-top: 8px;
+    padding: 1px;
+}
+
+
+/*hueca azul */ 
+
+#actividad .content .texto_curso  ul.bck-ul-9 li,
+#actividad .content .workspace ul li ul.bck-ul-9 li {
+	list-style: none;
+}
+
+.cke_contents .bck-ul-9 li:before,
+#actividad .content .texto_curso .bck-ul-9 li:before,
+#actividad .content .workspace ul li .bck-ul-9 li:before {
+	background: white;
+    width: 10px;
+    height: 10px;
+    border-color: #006f9e!important;
+    border: 2px solid;
+    margin-top: 8px;
+    padding: 1px;
+}
 
 
 
