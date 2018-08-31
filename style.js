@@ -14,12 +14,13 @@
 
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title bck-title1'} },
 				{ name: 'Título 2', element: 'h4', attributes: { 'class': 'bck-title bck-title2'} },
-				{ name: 'Document', element: 'h4', attributes: { 'class': 'bck-title bck-title3'} },
+				{ name: 'Document verde', element: 'h4', attributes: { 'class': 'bck-title bck-title3'} },
 				{ name: 'comprension verde', element: 'h4', attributes: { 'class': 'bck-title bck-title4'} },
 				{ name: 'unite verde', element: 'h4', attributes: { 'class': 'bck-title bck-title5'} },
 				{ name: 'producion verde', element: 'h4', attributes: { 'class': 'bck-title bck-title6'} },
 				{ name: 'produ lila', element: 'h4', attributes: { 'class': 'bck-title bck-title7'} },
 				{ name: 'comprension lila', element: 'h4', attributes: { 'class': 'bck-title bck-title8'} },
+				{ name: 'Document lila', element: 'h4', attributes: { 'class': 'bck-title bck-title9'} },
 
 				{ name: 'Lista morada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol1' } },
 				{ name: 'Lista morada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol2' } },
