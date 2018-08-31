@@ -55,7 +55,9 @@
 				{ name: 'Lista oliva', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
 				{ name: 'Lista naranjaoscuro', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
 				{ name: 'Lista hueca verde', element: 'ul', attributes: { 'class': 'bck-ul-7'} },
-				{ name: 'Lista hueca', element: 'ul', attributes: { 'class': 'bck-ul-8'} },
+				{ name: 'Lista hueca rojo', element: 'ul', attributes: { 'class': 'bck-ul-8'} },
+				{ name: 'Lista hueca azul', element: 'ul', attributes: { 'class': 'bck-ul-9'} },
+				
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 				{ name: 'Caja morada', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
