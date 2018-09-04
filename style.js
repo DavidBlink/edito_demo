@@ -39,6 +39,12 @@
 				{ name: 'oreja rojo', element: 'h4', attributes: { 'class': 'bck-title bck-title25'} },
 				{ name: 'oreja celeste', element: 'h4', attributes: { 'class': 'bck-title bck-title26'} },
 				{ name: 'oreja naranja', element: 'h4', attributes: { 'class': 'bck-title bck-title27'} },
+				{ name: 'boli verde', element: 'h4', attributes: { 'class': 'bck-title bck-title28'} },
+				{ name: 'boli morado', element: 'h4', attributes: { 'class': 'bck-title bck-title29'} },
+				{ name: 'boli oliva', element: 'h4', attributes: { 'class': 'bck-title bck-title30'} },
+				{ name: 'boli rojo', element: 'h4', attributes: { 'class': 'bck-title bck-title31'} },
+				{ name: 'boli celeste', element: 'h4', attributes: { 'class': 'bck-title bck-title32'} },
+				{ name: 'boli naranja', element: 'h4', attributes: { 'class': 'bck-title bck-title33'} },
 				
 
 				{ name: 'Lista morada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol1' } },
