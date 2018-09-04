@@ -533,8 +533,6 @@
     background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
-    background-position-x: center;
-    background-position-y: center;
 }
 
 /*libro - morado*/
@@ -1110,6 +1108,198 @@
     border: 3px solid #fff;
     background: #e76000;
     background-image: url(images/oreja.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*boli verde*/
+
+.bck-title28 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #008f37;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title28:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    top: inherit;
+    left: -15px;
+    margin-top: -9px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: #008f37;
+    background-image: url(images/boli.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*boli morado*/
+
+.bck-title29 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #9b1e8a;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title29:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    top: inherit;
+    left: -15px;
+    margin-top: -9px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: #9b1e8a;
+    background-image: url(images/boli.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*boli oliva*/
+
+.bck-title30 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #80940a;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title30:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    top: inherit;
+    left: -15px;
+    margin-top: -9px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: #80940a;
+    background-image: url(images/boli.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*boli rojo*/
+
+.bck-title31 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #de003d;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title31:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    top: inherit;
+    left: -15px;
+    margin-top: -9px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: #de003d;
+    background-image: url(images/boli.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*boli celeste*/
+
+.bck-title32 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #008b7c;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title32:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    top: inherit;
+    left: -15px;
+    margin-top: -9px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: #008b7c;
+    background-image: url(images/boli.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*boli naranja*/
+
+.bck-title33 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #e76000;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title33:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    top: inherit;
+    left: -15px;
+    margin-top: -9px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background: #e76000;
+    background-image: url(images/boli.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
