@@ -529,6 +529,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #008f37;
     background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -560,6 +561,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #9b1e8a;
     background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -591,6 +593,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #80940a;
     background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -622,6 +625,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #de003d;
     background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -653,6 +657,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #008b7c;
     background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -684,6 +689,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #e76000;
     background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -715,6 +721,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #008f37;
     background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -746,6 +753,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #a61f84;
     background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -777,6 +785,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #80940a;
     background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -808,6 +817,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #de003d;
     background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -839,6 +849,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #008c7c;
     background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -870,6 +881,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #e76000;
     background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -901,6 +913,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #006f9e;
     background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -918,7 +931,7 @@
     color: #fff;
     margin-left: 12px;
     margin-bottom: 25px;
-    background: #006f9e;
+    background: #008f37;
     border-radius: 0px 20px 20px 0px;
 }
 
@@ -933,6 +946,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #008f37;
     background-image: url(images/oreja.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -949,7 +963,7 @@
     color: #fff;
     margin-left: 12px;
     margin-bottom: 25px;
-    background: #006f9e;
+    background: #9b1e8a;
     border-radius: 0px 20px 20px 0px;
 }
 
@@ -964,6 +978,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #9b1e8a;
     background-image: url(images/oreja.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -980,7 +995,7 @@
     color: #fff;
     margin-left: 12px;
     margin-bottom: 25px;
-    background: #006f9e;
+    background: #80940a;
     border-radius: 0px 20px 20px 0px;
 }
 
@@ -995,6 +1010,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #80940a;
     background-image: url(images/oreja.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -1011,7 +1027,7 @@
     color: #fff;
     margin-left: 12px;
     margin-bottom: 25px;
-    background: #006f9e;
+    background: #de003d;
     border-radius: 0px 20px 20px 0px;
 }
 
@@ -1026,6 +1042,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #de003d;
     background-image: url(images/oreja.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -1042,7 +1059,7 @@
     color: #fff;
     margin-left: 12px;
     margin-bottom: 25px;
-    background: #006f9e;
+    background: #008b7c;
     border-radius: 0px 20px 20px 0px;
 }
 
@@ -1057,6 +1074,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #008b7c;
     background-image: url(images/oreja.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -1073,7 +1091,7 @@
     color: #fff;
     margin-left: 12px;
     margin-bottom: 25px;
-    background: #006f9e;
+    background: #e76000;
     border-radius: 0px 20px 20px 0px;
 }
 
@@ -1088,6 +1106,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
+    background: #e76000;
     background-image: url(images/oreja.png);
     background-repeat: no-repeat;
     background-size: contain;
