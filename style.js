@@ -33,6 +33,12 @@
 				{ name: 'bocadillo celeste', element: 'h4', attributes: { 'class': 'bck-title bck-title19'} },
 				{ name: 'bocadillo naranja', element: 'h4', attributes: { 'class': 'bck-title bck-title20'} },
 				{ name: 'bocadillo azul', element: 'h4', attributes: { 'class': 'bck-title bck-title21'} },
+				{ name: 'oreja verde', element: 'h4', attributes: { 'class': 'bck-title bck-title22'} },
+				{ name: 'oreja morado', element: 'h4', attributes: { 'class': 'bck-title bck-title23'} },
+				{ name: 'oreja oliva', element: 'h4', attributes: { 'class': 'bck-title bck-title24'} },
+				{ name: 'oreja rojo', element: 'h4', attributes: { 'class': 'bck-title bck-title25'} },
+				{ name: 'oreja celeste', element: 'h4', attributes: { 'class': 'bck-title bck-title26'} },
+				{ name: 'oreja naranja', element: 'h4', attributes: { 'class': 'bck-title bck-title27'} },
 				
 
 				{ name: 'Lista morada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol1' } },
