@@ -529,7 +529,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/libro-verde.png);
+    background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -560,7 +560,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/comprension-lila.png);
+    background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -591,7 +591,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/libro-oliva.png);
+    background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -622,7 +622,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/libro-rojo.png);
+    background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -653,7 +653,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/libro-celeste.png);
+    background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -684,7 +684,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/libro-naranja.png);
+    background-image: url(images/libro.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -715,7 +715,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/hoja.png);
+    background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -746,7 +746,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/hoja-lila.png);
+    background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -777,7 +777,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/bocadillo-oliva.png);
+    background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -808,7 +808,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/bocadillo-rojo.png);
+    background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -839,7 +839,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/bocadillo-celeste.png);
+    background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -870,7 +870,7 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/bocadillo-naranja.png);
+    background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -901,11 +901,197 @@
     width: 20px;
     height: 20px;
     border: 3px solid #fff;
-    background: url(images/bocadillo-azul.png);
+    background-image: url(images/bocadillo.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
 
+
+/*oreja verde*/
+
+.bck-title22 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #006f9e;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title22:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    top: inherit;
+    left: -15px;
+    margin-top: -9px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background-image: url(images/oreja.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*oreja morado*/
+
+.bck-title23 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #006f9e;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title23:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    top: inherit;
+    left: -15px;
+    margin-top: -9px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background-image: url(images/oreja.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*oreja oliva*/
+
+.bck-title24 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #006f9e;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title24:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    top: inherit;
+    left: -15px;
+    margin-top: -9px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background-image: url(images/oreja.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*oreja rojo*/
+
+.bck-title25 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #006f9e;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title25:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    top: inherit;
+    left: -15px;
+    margin-top: -9px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background-image: url(images/oreja.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*oreja celeste*/
+
+.bck-title26 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #006f9e;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title26:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    top: inherit;
+    left: -15px;
+    margin-top: -9px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background-image: url(images/oreja.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/*oreja naranja*/
+
+.bck-title27 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 4px 15px 3px 15px;
+    width: fit-content;
+    color: #fff;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    background: #006f9e;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.bck-title27:before {
+    content: " ";
+    padding: 16px;
+    border-radius: 50%;
+    position: absolute;
+    top: inherit;
+    left: -15px;
+    margin-top: -9px;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    background-image: url(images/oreja.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
 
 /* Lista */
 
