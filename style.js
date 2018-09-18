@@ -74,6 +74,10 @@
 				{ name: 'Lista cuadrada', element: 'ol', attributes: { 'class': 'bck-ol bck-ol25' } },
 				{ name: 'Lista A verde', element: 'ol', attributes: { 'class': 'bck-ol bck-ol26' } },
 				{ name: 'Lista A rojo', element: 'ol', attributes: { 'class': 'bck-ol bck-ol27' } },
+				{ name: 'Lista A morado', element: 'ol', attributes: { 'class': 'bck-ol bck-ol28' } },
+				{ name: 'Lista A oliva', element: 'ol', attributes: { 'class': 'bck-ol bck-ol29' } },
+				{ name: 'Lista A celeste', element: 'ol', attributes: { 'class': 'bck-ol bck-ol30' } },
+				{ name: 'Lista A naranja', element: 'ol', attributes: { 'class': 'bck-ol bck-ol31' } },
 				
 				{ name: 'Lista morada', element: 'ul', attributes: { 'class': 'bck-ul'} },
 				{ name: 'Lista verde', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
