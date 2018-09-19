@@ -2081,6 +2081,63 @@ border-right: 2px solid #cb6005;
     padding: 1px;
 }
 
+/*hueca oliva */ 
+
+#actividad .content .texto_curso  ul.bck-ul-11 li,
+#actividad .content .workspace ul li ul.bck-ul-11 li {
+    list-style: none;
+}
+
+.cke_contents .bck-ul-11 li:before,
+#actividad .content .texto_curso .bck-ul-11 li:before,
+#actividad .content .workspace ul li .bck-ul-11 li:before {
+    background: white;
+    width: 10px;
+    height: 10px;
+    border-color: #859326!important;
+    border: 2px solid;
+    margin-top: 7px;
+    padding: 1px;
+}
+
+/*hueca celeste */ 
+
+#actividad .content .texto_curso  ul.bck-ul-12 li,
+#actividad .content .workspace ul li ul.bck-ul-12 li {
+    list-style: none;
+}
+
+.cke_contents .bck-ul-12 li:before,
+#actividad .content .texto_curso .bck-ul-12 li:before,
+#actividad .content .workspace ul li .bck-ul-12 li:before {
+    background: white;
+    width: 10px;
+    height: 10px;
+    border-color: #008b7c!important;
+    border: 2px solid;
+    margin-top: 7px;
+    padding: 1px;
+}
+
+/*hueca naranja */ 
+
+#actividad .content .texto_curso  ul.bck-ul-13 li,
+#actividad .content .workspace ul li ul.bck-ul-13 li {
+    list-style: none;
+}
+
+.cke_contents .bck-ul-13 li:before,
+#actividad .content .texto_curso .bck-ul-13 li:before,
+#actividad .content .workspace ul li .bck-ul-13 li:before {
+    background: white;
+    width: 10px;
+    height: 10px;
+    border-color: #e76000!important;
+    border: 2px solid;
+    margin-top: 7px;
+    padding: 1px;
+}
+
 
 
 /*CAJAS*/
