@@ -45,6 +45,7 @@
 				{ name: 'boli rojo', element: 'h4', attributes: { 'class': 'bck-title bck-title31'} },
 				{ name: 'boli celeste', element: 'h4', attributes: { 'class': 'bck-title bck-title32'} },
 				{ name: 'boli naranja', element: 'h4', attributes: { 'class': 'bck-title bck-title33'} },
+				{ name: 'fondo verde', element: 'h4', attributes: { 'class': 'bck-title bck-title34'} },
 				
 
 				{ name: 'Lista morada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol1' } },
@@ -88,6 +89,7 @@
 				{ name: 'Lista hueca verde', element: 'ul', attributes: { 'class': 'bck-ul-7'} },
 				{ name: 'Lista hueca rojo', element: 'ul', attributes: { 'class': 'bck-ul-8'} },
 				{ name: 'Lista hueca azul', element: 'ul', attributes: { 'class': 'bck-ul-9'} },
+				{ name: 'Lista hueca morada', element: 'ul', attributes: { 'class': 'bck-ul-10'} },
 				
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
