@@ -90,6 +90,9 @@
 				{ name: 'Lista hueca rojo', element: 'ul', attributes: { 'class': 'bck-ul-8'} },
 				{ name: 'Lista hueca azul', element: 'ul', attributes: { 'class': 'bck-ul-9'} },
 				{ name: 'Lista hueca morada', element: 'ul', attributes: { 'class': 'bck-ul-10'} },
+				{ name: 'Lista hueca oliva', element: 'ul', attributes: { 'class': 'bck-ul-11'} },
+				{ name: 'Lista hueca celeste', element: 'ul', attributes: { 'class': 'bck-ul-12'} },
+				{ name: 'Lista hueca naranja', element: 'ul', attributes: { 'class': 'bck-ul-13'} },
 				
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
