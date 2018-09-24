@@ -391,6 +391,12 @@ li.item.js-item.nivel_1 a:hover {
 
 /*TITULO 1*/
 
+
+.cke_contents .bck-title1 {
+    top: 0px;
+}
+
+
 .bck-title1 {
     display: block;
     position: absolute;
